@@ -23,5 +23,5 @@ I love Java ☕️ & Cloud technologies ☁️
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Auckfmine&show_icons=true&theme=default" alt="My stats"/>
 </a>
 <a href="https://wakatime.com/@auckfmine">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nebrass" alt="Wakatime"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@auckfmine" alt="Wakatime"/>
 </a>
