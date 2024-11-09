@@ -1,5 +1,5 @@
 # Hi there, I'm Mouhamed Amine! 👋😊
-*aka "The Java Cloud Enthusiast"*
+*aka "The Full-Stack Cloud Enthusiast"*
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 - 💼 **Senior Software Engineer | Tech Lead at Xtendplex | Solution Architect**
 - 🌍 **Based in Greece since 2017**
-- ☕️ **Passionate about Java & Cloud Technologies**
-- 🎯 Currently exploring cutting-edge technologies in cloud computing and DevOps practices.
+- 💻 **Expertise in Java, Python, Cloud, FastAPI, Django, Angular, and Next.js**
+- 🎯 Passionate about creating scalable solutions and exploring full-stack and cloud-native architectures.
 
 ---
 
@@ -33,11 +33,14 @@
 ### 💡 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevOps-Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
 ---
@@ -65,14 +68,14 @@
 ---
 
 ### 🛠️ Currently Working On
-- 🧩 Building scalable solutions in **Java** and **Cloud Computing**.
-- 🌐 Expanding my knowledge in **Edge AI** and **Serverless Architecture**.
-- 📜 Writing articles on **Best Practices for Cloud Deployment**.
+- 🧩 Building full-stack solutions with **FastAPI, Angular, and Next.js**.
+- 🌐 Expanding expertise in **Edge AI**, **Serverless Architecture**, and **Microservices**.
+- 📜 Writing articles on **Best Practices in Full-Stack Development**.
 
 ---
 
 ### 🎉 Fun Fact
-Did you know? I’m a ☕️ **Java** enthusiast and a cloud ☁️ aficionado, always exploring the latest tech in DevOps and software architecture!
+Did you know? I’m a **Java and Python enthusiast** and love exploring the latest in **Cloud & Full-Stack Development**!
 
 ---
 
