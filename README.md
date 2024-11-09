@@ -9,7 +9,8 @@
 
 ### 👨‍💻 About Me
 - 💼 **Senior Software Engineer | Tech Lead at Xtendplex | Solution Architect**
-- 🌍 **Based in Greece since 2017**
+- 🌍 **FreeLanger since 2017**
+- 🌍 **Professional since 2020**
 - 💻 **Expertise in Java, Python, Cloud, FastAPI, Django, Angular, and Next.js**
 - 🎯 Passionate about creating scalable solutions and exploring full-stack and cloud-native architectures.
 
